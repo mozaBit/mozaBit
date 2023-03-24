@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Bamhammed</h1>
-<h3 align="center">A passionate developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozabit" alt="mozabit" /></a> </p>
+<h1 align="center"> Hi 👋, I'm Bamhammed </h1>
+<h3 align="center"> A committed developer displaying my proficiency in computer science through Github </h3>
 
-- 🔭 I’m currently working on [Ecla Programming language](https://github.com/Eclalang)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozabit" alt="mozabit" />
+  </a>
+ </p>
+
+- 🔭 I’m currently working on [Ecla Programming language] (https://github.com/Eclalang)
+- 🔭 Also I’m currently working on [Revochat] (https://github.com/revochat)
 
 - 🌱 I’m currently learning **React, Data Science skills**
 
-- 💬 Ask me about **Golang, Linux, Full Stack developping**
+- 💬 Ask me about **C, Golang, Linux, Full Stack developping**
 
 - 📫 How to reach me **BamhammedMetehri@gmail.com**
 
